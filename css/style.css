@@ -7,7 +7,7 @@
     height: 96vh;
     background-repeat: no-repeat;
     background-size: cover;
-    font-family: fantasy;
+    font-family: Times, "Times New Roman";
 }
 
 #clock {
